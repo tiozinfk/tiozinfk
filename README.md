@@ -9,3 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiozinfk&layout&theme=dracula"/>
   <div/>
 
+![Snake animation](https://github.com/tiozinfk/tiozinfk/blob/output/github-contribution-grid-snake.svg)
