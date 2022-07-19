@@ -1,7 +1,7 @@
 #### Opaa, Eu sou o Rian 👋
 
-Desenvolvedor Front-end
-Aluno da Kenzie-academy
+<h3> Dev Frond-end <h3/>
+<h3> Aluno da kenzie-academy <h3/>
 
 <div align="center">
   <a href="https://github.com/tiozinfk">
