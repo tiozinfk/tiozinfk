@@ -1,4 +1,7 @@
-### Opaa, Eu sou o Rian 👋
+#### Opaa, Eu sou o Rian 👋
+
+Desenvolvedor Front-end
+Aluno da Kenzie-academy
 
 <div align="center">
   <a href="https://github.com/tiozinfk">
